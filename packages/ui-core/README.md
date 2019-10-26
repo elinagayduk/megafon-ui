@@ -1,6 +1,6 @@
 # @megafon/ui-core
 
-React UI components library.
+React UI components library. Change1.
 
 ## Getting started
 
